@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "calendRio"]
 	path = calendRio
 	url = https://github.com/cran/calendRio
-	shallow = true
-	registered = true
